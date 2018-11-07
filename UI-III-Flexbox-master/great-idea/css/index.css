@@ -226,3 +226,7 @@ h1, h2, h3, h4, h5 {
 button {
 	padding: 5px 30px;
 }
+
+ul {
+    list-style-type: square;
+}
